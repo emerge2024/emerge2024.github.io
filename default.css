@@ -29,11 +29,11 @@ input {
 	font: normal 1.1em "Lucida Sans Unicode",sans-serif;
 }
 p,cite,code,ul {
-	font-size: 1.6em;
+	font-size: 1.2em;
 	padding-bottom: 1.2em;
 }
 h1 {
-	font-size: 1.9;
+	font-size: 1.4em;
 	margin-bottom: 4px;
 }
 h1,h2,h3 {
@@ -42,7 +42,7 @@ h1,h2,h3 {
 }
 
 h2 {
-	font-size: 1.6em;
+	font-size: 1.4em;
 }
 
 /* misc */
@@ -55,19 +55,19 @@ h2 {
 	background-color: white;
 	margin: 0 auto;
 	padding-bottom: 6px;
-	width: 967px;
+	width: 767px;
 	border-bottom: 1px solid #DDD;
 	box-shadow:#000;
 }
 .header {
 	background: url(img/citybanner.jpg);
-	height: 380px;
+	height: 300px;
 }
 
 /* title */
 .title h1 {
 	color: #FFF;
-	font: normal 2.5em Verdana,sans-serif;
+	font: normal 2em Verdana,sans-serif;
 	margin-top: 8px;
 	margin-left: 8px;
 	text-align: left;
@@ -76,7 +76,7 @@ h2 {
 /* title */
 .title h2 {
 	color: #FFF;
-	font: normal 1.8em Verdana,sans-serif;
+	font: normal 1.5em Verdana,sans-serif;
 	margin-top: 0px;
 	margin-left: 8px;
 	text-align: left;
@@ -152,7 +152,7 @@ h2 {
 /* content */
 .content {
 	float: right;
-	width: 720px;
+	width: 520px;
 }
 .content .item {
 	padding: 6px 12px;
@@ -187,7 +187,7 @@ form {
 	font-size: 1.1em;
 	margin: 0 auto;
 	text-align: center;
-	width: 920px;
+	width: 720px;
 }
 .footer a {
 	color: #36C;
